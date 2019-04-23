@@ -9,3 +9,6 @@
 ## Deployment
   The project is to be deployed locally.
 ## How To Contribute
+
+### COPYRIGHT
+  COPYRIGHT: THIS IS A COPYRIGHT NOTICE
