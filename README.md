@@ -5,7 +5,7 @@
   This example is to show different parts of the Git repository and various
   commands using a web project.
 ## Purpose
-
+  Why do this? To proficient and smooth...
 ## Deployment
-
+  The project is to be deployed locally.
 ## How To Contribute
