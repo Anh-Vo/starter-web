@@ -12,3 +12,4 @@ bam bam bam bam bam this is some bam bam text
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
