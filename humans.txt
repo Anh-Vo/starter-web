@@ -6,7 +6,7 @@
   Anh Vo anhvo@mail.com
 # THANKS
 
-    <name>
+  Everyone
 
 # TECHNOLOGY COLOPHON
 
