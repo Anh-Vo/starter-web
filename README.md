@@ -9,6 +9,6 @@
 ## Deployment
   The project is to be deployed locally.
 ## How To Contribute
-
+  Write code. Push code. Submit pull request.
 ### COPYRIGHT
   COPYRIGHT: THIS IS A COPYRIGHT NOTICE
